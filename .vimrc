@@ -43,7 +43,6 @@ set tabstop=2
 set shiftwidth=2
 set softtabstop=2 expandtab
 filetype plugin indent on
-set autoindent
 set nowrap
 set ai
 set mouse=a
